@@ -10,7 +10,7 @@ Useage:
  Or: 
     ``$ cd ~/.vim/bundle``
  
-    ``$ git clone https://github.com/LeoPiaPia/vim-php``
+    ``$ git clone https://github.com/sadleon/vim-php``
 
 
 
