@@ -1,13 +1,15 @@
 A vim bundle for PHP language features.
 
+This bundle was created by @madflow before. But now he delete that repository(maybe not, becus i can not found now). 
 
-The prefered way to install and use this set of vim script is to utilize pathogen.
+So I am create this repository,hopes can help some one.
 
-See:
-
-    * https://github.com/tpope/vim-pathogen
-    * http://tammersaleh.com/posts/the-modern-vim-config-with-pathogen
-
+Useage:
+ You can see: https://github.com/gmarik/Vundle.vim
+ 
+ Or: $ cd ~/.vim/bundle
+ 
+      git clone https://github.com/LeoPiaPia/vim-php
 
 
 
